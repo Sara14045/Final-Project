@@ -1,10 +1,5 @@
 # Final Project: seven daily uploads
 
-All seven stages are supplied now. Choose one numbered stage each day. These are
-cumulative source snapshots, not just patches: stage 2 includes stage 1's purpose,
-and stage 7 is the complete project. There is no need to merge code from different
-stages by hand. You can also use Stage_07 directly to study the complete version.
-
 ## Upload order
 
 | Day | Archive | Main work | Suggested commit message |
